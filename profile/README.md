@@ -50,7 +50,7 @@ Individual technical specifications, mathematical whitepapers, API documentation
 ### Enterprise Reference Implementations (`BFF` Suite)
 - **[`bff-edifact-to-json-parser`](https://github.com/applied-tape-mechanics/bff-edifact-to-json-parser)** — UN/EDIFACT supply-chain stream transformation engine.
 - **[`bff-xml-json-converter`](https://github.com/applied-tape-mechanics/bff-xml-json-converter)** — Bidirectional XML ↔ JSON hierarchical state-machine converter.
-- **[`bff-key-value-database`](https://github.com/applied-tape-mechanics/bff-key-value-database)** — Open-addressed in-memory key-value store on a persistent 30,000-cell tape.
+- **[`bff-key-value-database`](https://github.com/applied-tape-mechanics/bff-key-value-database)** — Open-addressed in-memory key-value store on a persistent 65,536-cell tape.
 - **[`bff-url-encoder-decoder`](https://github.com/applied-tape-mechanics/bff-url-encoder-decoder)** — RFC 3986 percent-encoding and hex nibble decomposition service.
 - **[`bff-container-health-check`](https://github.com/applied-tape-mechanics/bff-container-health-check)** — Cloud observability probe with live tape arithmetic integrity verification.
 
